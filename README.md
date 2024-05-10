@@ -28,7 +28,7 @@ In this project, you will use migration files to build your schema.
 
  # Setup
  - Download the Zip file or Clone the repo with:
-   - git clone https://github.com/karam084/blog-app-rails
+   - git clone https://github.com/karam084/blog
    - To access the project directory
       - cd blog-app-rails
 
@@ -52,7 +52,6 @@ In this project, you will use migration files to build your schema.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jaferIdrees/vet_clinic_db/issues).
 
 ## Show your support
 
