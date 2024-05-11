@@ -61,7 +61,19 @@
   margin-top: 10px;
 }
 
-.comment .actions a {
+.comme/* Path: app/assets/stylesheets/sessions.scss */
+.session {
+  background-color: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.session h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+nt .actions a {
   margin-right: 10px;
 }
 
@@ -99,7 +111,9 @@
   margin-right: 0;
 }
 
-
+.container_user_show{
+    margin-top: 20px;
+}
 
 
 
